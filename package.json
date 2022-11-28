@@ -1,0 +1,8 @@
+{
+    "name": "my-test",
+    "main": "index2.js",
+    "type": "module",
+    "scripts": {
+      "dev": "node index2.js"
+    }
+  }
